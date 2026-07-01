@@ -1,3 +1,4 @@
+<img width="1909" height="971" alt="Screenshot 2026-04-24 205341" src="https://github.com/user-attachments/assets/745fcbd9-07c7-4cbd-9bda-7081ef4f2a5e" />
 🔴 Student Productivity & Placement Tracker System
 
 A complete Full-Stack Java Web Application built to help students track their daily study tasks, manage upcoming assignment deadlines, and monitor their placement readiness scores using a beautiful Notion-like dashboard.
